@@ -5,7 +5,7 @@ fineract:
       port: 3306
       schema: tenants
       username: root
-      password: mysql
+      password: password
     common:
       protocol: jdbc
       subprotocol: mysql

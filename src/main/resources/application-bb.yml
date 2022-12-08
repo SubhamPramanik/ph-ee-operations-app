@@ -1,4 +1,4 @@
-tenants: "tn01,tn02"
+tenants: "phdefault"
 
 token:
   client:
